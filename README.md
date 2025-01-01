@@ -1,8 +1,8 @@
-# SmartHome Project
+# Advanced SmartHome: Nlp IoT System
 
 ## Overview
 
-SmartHome is a comprehensive IoT-based home automation system that integrates hardware, AI, and a user-friendly web interface to provide seamless control over home devices. The project is structured to include components for data processing, machine learning, a backend for database management, and a frontend for user interaction.
+SmartHome is a comprehensive IoT-based home automation system that integrates hardware, nlp, and a user-friendly web interface to provide seamless control over home devices. The project is structured to include components for data processing, machine learning, a backend for database management, and a frontend for user interaction.
 
 ## Project Structure
 
