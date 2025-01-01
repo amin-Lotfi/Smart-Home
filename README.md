@@ -42,7 +42,7 @@ SmartHome is a comprehensive IoT-based home automation system that integrates ha
 
 Below are some images used in the project:
 
-![Screenshot Preview](image/1.jpg)
+![Login Page Design](image/1.jpg){width=50%}
 
 ## Installation
 
