@@ -42,7 +42,9 @@ SmartHome is a comprehensive IoT-based home automation system that integrates ha
 
 Below are some images used in the project:
 
-![Login Page Design](image/1.jpg){width=50%}
+<div align="center">
+    <img src="image/1.jpg" alt="Login Page Design" style="width:50%;">
+</div>
 
 ## Installation
 
