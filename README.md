@@ -40,8 +40,6 @@ SmartHome is a comprehensive IoT-based home automation system that integrates ha
 
 ## Project Images
 
-Below are some images used in the project:
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="image/1.jpg" alt="1" style="width:30%; margin: 10px;">
     <img src="image/2.jpg" alt="2" style="width:30%; margin: 10px;">
@@ -50,6 +48,8 @@ Below are some images used in the project:
     <img src="image/5.jpg" alt="5" style="width:30%; margin: 10px;">
     <img src="image/6.jpg" alt="6" style="width:30%; margin: 10px;">
 </div>
+
+
 ## Installation
 
 1. Clone the repository:
