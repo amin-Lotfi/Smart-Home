@@ -46,7 +46,7 @@ SmartHome is a comprehensive IoT-based home automation system that integrates ha
     <img src="image/3.jpg" alt="3" style="width:30%; margin: 10px;">
     <img src="image/4.jpg" alt="4" style="width:30%; margin: 10px;">
     <img src="image/5.jpg" alt="5" style="width:30%; margin: 10px;">
-    <img src="image/6.jpg" alt="6" style="width:30%; margin: 10px;">
+    <img src="image/7.jpg" alt="7" style="width:30%; margin: 10px;">
 </div>
 
 
